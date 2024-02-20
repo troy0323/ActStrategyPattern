@@ -1,4 +1,4 @@
-# Problem scenario:
+# Problem Scenario:
 
 Suppose we have three types of characters in a GameApp:
 
